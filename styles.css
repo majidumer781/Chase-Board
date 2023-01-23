@@ -1,0 +1,34 @@
+
+
+.table{
+    border:1px solid  #000000;
+    position: fixed;
+    width: 50%;
+    height: 65%;
+    
+   
+     
+}
+
+.bg{
+    background-color:black;
+    color: white;
+}
+
+td {
+    border: 1px solid ;
+   font-size: 65px;
+   text-align: center;
+    padding: 3px;
+    width: 3%;
+    height: 90px;
+}
+
+.show{
+   
+    height: 27px;
+    width: 35px;
+    
+}
+td:hover {
+    background-color: #ff7700;}
